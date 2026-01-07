@@ -1,6 +1,6 @@
-# GODOT-Basic-Character-Movement-Component
+# GODOT-Character-Movement-Component
 
-This is the development of a basic movement component designed to be attached to a character (CharacterBody3D node)
+This is the development of a movement component designed to be attached to a character (CharacterBody3D node)
 
 The demo folder contains an example of usage of this component
 
